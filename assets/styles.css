@@ -1,0 +1,38 @@
+body {
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+}
+  
+h2 {
+    font-size: 20px;
+    margin-top: 0;
+    margin-bottom: 40px;
+}
+
+.flex-col {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 52px 70px;
+}
+
+.col {
+    width: 400px;
+    margin: 0 25px;
+    padding: 33px;
+    border: 5px solid #E5E000;
+    border-radius: 30px;
+}
+
+.red {
+    font-family: Arial;
+    color: #fff;
+    background: #FE1A19;
+    padding: 20px;
+}
